@@ -2,8 +2,14 @@
 
 ## Installation
 
-build angular code in ClientApp
+build angular code in ClientApp Folder (/src/main/ClientApp)
 
 ```bash
 npm run build -- --prod
 ```
+build java 
+
+```bash
+mvn clean package
+```
+
