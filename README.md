@@ -13,4 +13,4 @@ build java
 mvn clean package
 ```
 
-Note: I got the angular project from the asp.net core spa example.
+Note: I got the angular project from the __asp.net core spa__ example.
