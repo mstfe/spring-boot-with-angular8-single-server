@@ -5,6 +5,7 @@
 build angular code in ClientApp Folder (/src/main/ClientApp)
 
 ```bash
+npm i
 npm run build -- --prod
 ```
 build java 
