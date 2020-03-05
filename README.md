@@ -14,4 +14,10 @@ build java
 mvn clean package
 ```
 
+run java
+
+```bash
+java -jar target/*.jar
+```
+
 Note: I got the angular project from the __asp.net core spa__ example.
